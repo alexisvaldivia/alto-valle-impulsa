@@ -1,6 +1,6 @@
 # Alto Valle Impulsa 🚀 (Plataforma de Crowdfunding)
 
-##Plataforma de financiamiento colectivo para proyectos de emprendedores locales, donde empresas o el municipio pueden aportar fondos.
+## Plataforma de financiamiento colectivo para proyectos de emprendedores locales, donde empresas o el municipio pueden aportar fondos.
 
 ### Tecnologías usadas: JavaScript, Nodejs, Expressjs, Sequelize, MariaDB, Socket.io, dotenv, joi, JWT, bcrypt.
 
